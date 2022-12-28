@@ -1,0 +1,47 @@
+.brand-color {
+  color: #439a97;
+}
+.bg-brand-color {
+  background-color: #439a97;
+}
+.nav-link:hover {
+  color: #439a97 !important;
+  font-weight: bold;
+}
+.header-underline {
+  background-color: #439a97;
+  height: 10px;
+  border-radius: 20px;
+  max-width: 300px;
+}
+
+.btn-brand {
+  background-color: #439a97;
+  color: white;
+}
+
+.btn-brand:hover {
+  background-color: #62b6b7;
+  color: white;
+}
+
+.btn-brand:active {
+  background-color: #62b6b7 !important;
+  color: white !important;
+}
+
+/* .btn:active {
+  background-color: #62b6b7 !important;
+  color: white;
+} */
+
+.btn-brand:focus {
+  background-color: #62b6b7;
+  color: white;
+}
+.link-portfolio {
+  color: #439a97;
+}
+.link-portfolio:hover {
+  color: #62b6b7;
+}
