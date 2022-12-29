@@ -9,10 +9,7 @@
 </p>
 
 ## Description
-This project is a software development company landing page website. This project was created only to add to the developer's portfolio, for a demo can be seen [here](https://landing-page-cyan-nu.vercel.app/)
-
-
-
+This project is a software development company landing page website. This project was created only to add to the developer's portfolio, for a demo can be seen [here](https://landing-page-cyan-nu.vercel.app/).
 
 ## Tech Stack
 1. HTML
