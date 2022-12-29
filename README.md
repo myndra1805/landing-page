@@ -4,7 +4,7 @@
 
 <p align="center">
     <a href="https://laravel.com" target="_blank">
-        <img src="https://github.com/myndra1805/landing-page/blob/master/images/logo.png?raw=true" width="100">
+        <img src="https://github.com/myndra1805/landing-page/blob/master/images/logo.png?raw=true" >
     </a>
 </p>
 
