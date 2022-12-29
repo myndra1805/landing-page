@@ -1,2 +1,4 @@
-<h1 style="text-align: center">LANDING PAGE</h1>
+<div align="center">
+    <h1>LANDING PAGE</h1>
+</div>
 
