@@ -6,7 +6,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
   for (let i = 0; i < 12; i++) {
     rowClient.append(
       getClient({
-        src: `/images/clients/${i + 1}.png`,
+        src: `./images/clients/${i + 1}.png`,
         alt: "",
         height: "80px",
       })
@@ -15,7 +15,7 @@ window.addEventListener("DOMContentLoaded", (event) => {
   for (let i = 0; i < 8; i++) {
     rowPortfolio.append(
       getPortfolio({
-        src: `/images/portfolio/${i + 1}.jpg`,
+        src: `./images/portfolio/${i + 1}.jpg`,
         alt: "",
       })
     );
